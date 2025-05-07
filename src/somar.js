@@ -17,3 +17,4 @@ function somar(a, b) {
   console.log(somar(null, 5));   // Esperado: "Parâmetro inválido"
 
   module.exports = { somar };
+
